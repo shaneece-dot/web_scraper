@@ -1,0 +1,28 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Log files
+*.log
+
+# CSV and scraped data (optional — comment out if you want to keep scraped_data.csv in git)
+scraped_data.csv
+
+# VSCode config (if you use VSCode)
+.vscode/
+
+# Jupyter Notebook checkpoints (if using Jupyter)
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
