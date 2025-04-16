@@ -22,3 +22,7 @@
 2025-04-16 14:36:58,593 - INFO - Scraping complete. 10 jobs saved to scraped_data.csv
 2025-04-16 14:46:40,610 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
 2025-04-16 14:46:41,794 - INFO - Successfully saved 10 jobs to scraped_data.csv
+2025-04-16 15:46:04,601 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 15:46:05,808 - INFO - Successfully saved 10 jobs to scraped_data.csv
+2025-04-16 15:48:25,861 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 15:48:26,786 - INFO - Successfully saved 10 jobs to scraped_data.csv
