@@ -1,0 +1,24 @@
+2025-04-16 13:44:01,227 - INFO - Starting job scrape...
+2025-04-16 13:44:03,451 - INFO - Job scrape complete and saved to scraped_data.csv
+2025-04-16 13:52:00,079 - INFO - Starting job scrape...
+2025-04-16 13:52:00,909 - INFO - Job scrape complete and saved to scraped_data.csv
+2025-04-16 13:59:09,316 - INFO - Starting job scrape...
+2025-04-16 13:59:10,227 - INFO - Job scrape complete and saved to scraped_data.csv
+2025-04-16 14:04:57,573 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 14:04:58,475 - INFO - Successfully saved 10 jobs to scraped_data.csv
+2025-04-16 14:19:05,371 - INFO - Scraping https://vacancymail.co.zw/jobs/page/1...
+2025-04-16 14:19:06,164 - ERROR - Failed to load page 1: 404 Client Error: Not Found for url: https://vacancymail.co.zw/jobs/page/1
+2025-04-16 14:24:50,558 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 14:24:51,373 - ERROR - An unexpected error occurred: [Errno 13] Permission denied: 'scraped_data.csv'
+2025-04-16 14:26:01,360 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 14:26:02,242 - ERROR - An unexpected error occurred: [Errno 13] Permission denied: 'scraped_data.csv'
+2025-04-16 14:27:05,303 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 14:27:06,223 - ERROR - An unexpected error occurred: [Errno 13] Permission denied: 'scraped_data.csv'
+2025-04-16 14:31:47,277 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 14:31:48,252 - INFO - Successfully saved 10 jobs to scraped_data.csv
+2025-04-16 14:36:34,952 - INFO - Scraping started for https://vacancymail.co.zw/jobs/
+2025-04-16 14:36:36,044 - ERROR - Scraping failed: [Errno 13] Permission denied: 'scraped_data.csv'
+2025-04-16 14:36:56,939 - INFO - Scraping started for https://vacancymail.co.zw/jobs/
+2025-04-16 14:36:58,593 - INFO - Scraping complete. 10 jobs saved to scraped_data.csv
+2025-04-16 14:46:40,610 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 14:46:41,794 - INFO - Successfully saved 10 jobs to scraped_data.csv
